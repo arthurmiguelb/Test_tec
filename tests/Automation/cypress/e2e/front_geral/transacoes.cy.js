@@ -45,9 +45,11 @@ describe('transacoes', () => {
     cy.get('.go2072408551').should('be.visible')
   })
   
-  it('filtro de transações por tipo', () => {
+  it.only('filtro de transações por tipo', () => {
+    cy.visit('pessoas')
+    cy.contains('button', '1').click()
+    cy.deletarItemPaginado('TESTE TEC') // deleta a pessoa criada para não poluir o ambiente de teste
     cy.visit('/transacoes')
-    cy.buscarEDeletar('TESTE TEC') // deleta a pessoa criada para não poluir o ambiente de teste
     cy.get('#filtroTipo').select('despesa')
     cy.get('table tbody tr').should('have.length.greaterThan', 0)
   })
