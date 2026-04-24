@@ -11,6 +11,7 @@ describe('transacoes', () => {
   })
   
   it('criação de transação de despesa', () => {
+    cy.CriaUmaPessoa('TESTE TEC') // cria uma pessoa para associar a transação
     cy.visit('/transacoes')
     cy.get('.inline-flex').click()
     cy.get('#descricao').type('Teste Receita')
@@ -18,8 +19,8 @@ describe('transacoes', () => {
     cy.get('[name="data"]').type('2024-06-01')
     cy.get('#tipo').select('despesa')
     cy.get(':nth-child(5) > .relative > .flex > .px-3').click() 
-    cy.get('#pessoa-select').type('Maria Santos')
-    cy.get('#pessoa-select-options').contains('Maria Santos').click()
+    cy.get('#pessoa-select').type('TESTE TEC')
+    cy.get('#pessoa-select-options').contains('TESTE TEC').click()
     cy.get('#categoria-select').type('Alimentação')
     cy.get('#categoria-select-options').contains('Alimentação').click()
     
@@ -35,8 +36,8 @@ describe('transacoes', () => {
     cy.get('[name="data"]').type('2024-06-01')
     cy.get('#tipo').select('receita')
     cy.get(':nth-child(5) > .relative > .flex > .px-3').click() 
-    cy.get('#pessoa-select').type('Maria Santos')
-    cy.get('#pessoa-select-options').contains('Maria Santos').click()
+    cy.get('#pessoa-select').type('TESTE TEC')
+    cy.get('#pessoa-select-options').contains('TESTE TEC').click()
     cy.get('#categoria-select').type('Alimentação')
     cy.get('#categoria-select-options').contains('Alimentação').click()
   
@@ -46,6 +47,7 @@ describe('transacoes', () => {
   
   it('filtro de transações por tipo', () => {
     cy.visit('/transacoes')
+    cy.buscarEDeletar('TESTE TEC') // deleta a pessoa criada para não poluir o ambiente de teste
     cy.get('#filtroTipo').select('despesa')
     cy.get('table tbody tr').should('have.length.greaterThan', 0)
   })
