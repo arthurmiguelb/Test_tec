@@ -21,9 +21,9 @@ Apenas na API é possivel realizar a criação de uma categoria com sua finalida
 - Validar enum `(0,1,2)`
 - Retornar erro para valores inválidos
 ## Evidências
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](images/image.png)
+![alt text](images/image-1.png)
+![alt text](images/image-2.png)
 
 ## Ambiente
 - API: http://localhost:5000

@@ -18,8 +18,8 @@ Ao inserir via API uma quantidade de páginas inexistentes é retornado uma cons
 - API deveria retornar erro (400 ou 404)  ou ajustar automaticamente para a última página
 
 ## Evidências
-![alt text](image-3.png)
-![alt text](image-4.png)
+![alt text](images/image-3.png)
+![alt text](images/image-4.png)
 
 ## Ambiente
 - API: http://localhost:5000

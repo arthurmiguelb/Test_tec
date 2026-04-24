@@ -21,8 +21,8 @@ Ainda seguindo o problema da validação de finalidade é possivel realizar a cr
 - Validar enum `(0,1,2)`
 - Retornar erro para valores inválidos
 ## Evidências
-![alt text](image-3.png)
-![alt text](image-4.png)
+![alt text](images/image-3.png)
+![alt text](images/image-4.png)
 
 ## Ambiente
 - API: http://localhost:5000

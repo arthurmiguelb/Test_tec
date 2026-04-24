@@ -19,9 +19,9 @@ Sistema permite criação de pessoas com idade extremamente alta.
 ## Resultado esperado
 - Validação de idade com limite razoável
 ## Evidências
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-2.png)
+![alt text](images/image-4.png)
+![alt text](images/image-5.png)
+![alt text](images/image-2.png)
 ## Ambiente
 - API: http://localhost:5000
 - Front: http://localhost:5173

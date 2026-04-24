@@ -16,8 +16,8 @@ A depender do tamanho da descrição de uma categoria, há uma quebra no layout 
 ## Resultado esperado
 - Exibição dos componentes do front dentro do padrão indepente do tamanho da `descricao` de `Categorias`
 ## Evidências
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](images/image.png)
+![alt text](images/image-1.png)
 
 
 ## Ambiente

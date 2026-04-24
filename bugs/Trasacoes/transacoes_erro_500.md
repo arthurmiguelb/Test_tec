@@ -14,10 +14,10 @@ Todas as rotas testadas retornam erro 500.
 ## Resultado esperado
 - Status 200 ou erro tratado
 ## Evidências
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text](images/image.png)
+![alt text](images/image-1.png)
+![alt text](images/image-2.png)
+![alt text](images/image-3.png)
 
 
 ## Ambiente
