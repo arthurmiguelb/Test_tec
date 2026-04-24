@@ -1,8 +1,3 @@
-C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\obj\Debug\net9.0\MinhasFinancas.Application.Tests.csproj.AssemblyReference.cache
-C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\obj\Debug\net9.0\MinhasFinancas.Application.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\obj\Debug\net9.0\MinhasFinancas.Application.Tests.AssemblyInfoInputs.cache
-C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\obj\Debug\net9.0\MinhasFinancas.Application.Tests.AssemblyInfo.cs
-C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\obj\Debug\net9.0\MinhasFinancas.Application.Tests.csproj.CoreCompileInputs.cache
 C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_MinhasFinancas.Application.Tests
 C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_MinhasFinancas.Application.Tests
 C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\bin\Debug\net9.0\testhost.dll
@@ -110,9 +105,13 @@ C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\bin\D
 C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\bin\Debug\net9.0\MinhasFinancas.Application.dll
 C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\bin\Debug\net9.0\MinhasFinancas.Domain.dll
 C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\bin\Debug\net9.0\MinhasFinancas.Application.pdb
-C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\bin\Debug\net9.0\MinhasFinancas.Application.xml
 C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\bin\Debug\net9.0\MinhasFinancas.Domain.pdb
-C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\bin\Debug\net9.0\MinhasFinancas.Domain.xml
+C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\obj\Debug\net9.0\MinhasFinancas.Application.Tests.csproj.AssemblyReference.cache
+C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\obj\Debug\net9.0\MinhasFinancas.Application.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\obj\Debug\net9.0\MinhasFinancas.Application.Tests.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\obj\Debug\net9.0\MinhasFinancas.Application.Tests.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\obj\Debug\net9.0\MinhasFinancas.Application.Tests.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\obj\Debug\net9.0\MinhasFinancas.Application.Tests.sourcelink.json
 C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\obj\Debug\net9.0\MinhasFi.81CD3C5B.Up2Date
 C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\obj\Debug\net9.0\MinhasFinancas.Application.Tests.dll
 C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\obj\Debug\net9.0\refint\MinhasFinancas.Application.Tests.dll

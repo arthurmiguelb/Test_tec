@@ -4,105 +4,16 @@
     "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Tests.csproj": {
+    "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Application\\MinhasFinancas.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Tests.csproj",
-        "projectName": "MinhasFinancas.Tests",
-        "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Tests.csproj",
-        "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net9.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
-            "projectReferences": {
-              "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Application\\MinhasFinancas.Application.csproj": {
-                "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Application\\MinhasFinancas.Application.csproj"
-              },
-              "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Domain\\MinhasFinancas.Domain.csproj": {
-                "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Domain\\MinhasFinancas.Domain.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "10.0.200"
-      },
-      "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
-          "dependencies": {
-            "Microsoft.NET.Test.Sdk": {
-              "target": "Package",
-              "version": "[17.12.0, )"
-            },
-            "Moq": {
-              "target": "Package",
-              "version": "[4.20.72, )"
-            },
-            "coverlet.collector": {
-              "target": "Package",
-              "version": "[6.0.2, )"
-            },
-            "xunit": {
-              "target": "Package",
-              "version": "[2.9.2, )"
-            },
-            "xunit.runner.visualstudio": {
-              "target": "Package",
-              "version": "[2.8.2, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Application\\MinhasFinancas.Application.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Application\\MinhasFinancas.Application.csproj",
+        "projectUniqueName": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Application\\MinhasFinancas.Application.csproj",
         "projectName": "MinhasFinancas.Application",
-        "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Application\\MinhasFinancas.Application.csproj",
+        "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Application\\MinhasFinancas.Application.csproj",
         "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Application\\obj\\",
+        "outputPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\NuGet.Config",
           "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
@@ -115,8 +26,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Domain\\MinhasFinancas.Domain.csproj": {
-                "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Domain\\MinhasFinancas.Domain.csproj"
+              "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Domain\\MinhasFinancas.Domain.csproj": {
+                "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Domain\\MinhasFinancas.Domain.csproj"
               }
             }
           }
@@ -162,17 +73,16 @@
         }
       }
     },
-    "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Domain\\MinhasFinancas.Domain.csproj": {
+    "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Domain\\MinhasFinancas.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Domain\\MinhasFinancas.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Domain\\MinhasFinancas.Domain.csproj",
         "projectName": "MinhasFinancas.Domain",
-        "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Domain\\MinhasFinancas.Domain.csproj",
+        "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Domain\\MinhasFinancas.Domain.csproj",
         "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Domain\\obj\\",
+        "outputPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\NuGet.Config",
           "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
@@ -202,6 +112,91 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Tests.csproj",
+        "projectName": "MinhasFinancas.Tests",
+        "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Tests.csproj",
+        "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Application\\MinhasFinancas.Application.csproj": {
+                "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Application\\MinhasFinancas.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.12.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

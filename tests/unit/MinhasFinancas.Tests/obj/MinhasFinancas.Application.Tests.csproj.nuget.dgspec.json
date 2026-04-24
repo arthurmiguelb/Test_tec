@@ -26,8 +26,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Application\\MinhasFinancas.Application.csproj": {
-                "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Application\\MinhasFinancas.Application.csproj"
+              "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Application\\MinhasFinancas.Application.csproj": {
+                "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Application\\MinhasFinancas.Application.csproj"
               }
             }
           }
@@ -89,17 +89,16 @@
         }
       }
     },
-    "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Application\\MinhasFinancas.Application.csproj": {
+    "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Application\\MinhasFinancas.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Application\\MinhasFinancas.Application.csproj",
+        "projectUniqueName": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Application\\MinhasFinancas.Application.csproj",
         "projectName": "MinhasFinancas.Application",
-        "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Application\\MinhasFinancas.Application.csproj",
+        "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Application\\MinhasFinancas.Application.csproj",
         "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Application\\obj\\",
+        "outputPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\NuGet.Config",
           "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
@@ -112,8 +111,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Domain\\MinhasFinancas.Domain.csproj": {
-                "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Domain\\MinhasFinancas.Domain.csproj"
+              "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Domain\\MinhasFinancas.Domain.csproj": {
+                "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Domain\\MinhasFinancas.Domain.csproj"
               }
             }
           }
@@ -159,17 +158,16 @@
         }
       }
     },
-    "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Domain\\MinhasFinancas.Domain.csproj": {
+    "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Domain\\MinhasFinancas.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Domain\\MinhasFinancas.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Domain\\MinhasFinancas.Domain.csproj",
         "projectName": "MinhasFinancas.Domain",
-        "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Domain\\MinhasFinancas.Domain.csproj",
+        "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Domain\\MinhasFinancas.Domain.csproj",
         "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Domain\\obj\\",
+        "outputPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\NuGet.Config",
           "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [

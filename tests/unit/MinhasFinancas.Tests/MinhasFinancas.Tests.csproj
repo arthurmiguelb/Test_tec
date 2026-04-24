@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
@@ -16,8 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Teste_tecnico\ExameDesenvolvedorDeTestes\api\MinhasFinancas.Application\MinhasFinancas.Application.csproj" />
-    <ProjectReference Include="..\..\..\..\Teste_tecnico\ExameDesenvolvedorDeTestes\api\MinhasFinancas.Domain\MinhasFinancas.Domain.csproj" />
+    <ProjectReference Include="MinhasFinancas.Application\MinhasFinancas.Application.csproj" />
   </ItemGroup>
 
   <ItemGroup>

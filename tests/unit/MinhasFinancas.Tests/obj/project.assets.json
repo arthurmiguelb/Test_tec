@@ -1631,20 +1631,19 @@
     },
     "MinhasFinancas.Application/1.0.0": {
       "type": "project",
-      "path": "../../../../Teste_tecnico/ExameDesenvolvedorDeTestes/api/MinhasFinancas.Application/MinhasFinancas.Application.csproj",
-      "msbuildProject": "../../../../Teste_tecnico/ExameDesenvolvedorDeTestes/api/MinhasFinancas.Application/MinhasFinancas.Application.csproj"
+      "path": "MinhasFinancas.Application/MinhasFinancas.Application.csproj",
+      "msbuildProject": "MinhasFinancas.Application/MinhasFinancas.Application.csproj"
     },
     "MinhasFinancas.Domain/1.0.0": {
       "type": "project",
-      "path": "../../../../Teste_tecnico/ExameDesenvolvedorDeTestes/api/MinhasFinancas.Domain/MinhasFinancas.Domain.csproj",
-      "msbuildProject": "../../../../Teste_tecnico/ExameDesenvolvedorDeTestes/api/MinhasFinancas.Domain/MinhasFinancas.Domain.csproj"
+      "path": "MinhasFinancas.Domain/MinhasFinancas.Domain.csproj",
+      "msbuildProject": "MinhasFinancas.Domain/MinhasFinancas.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.NET.Test.Sdk >= 17.12.0",
       "MinhasFinancas.Application >= 1.0.0",
-      "MinhasFinancas.Domain >= 1.0.0",
       "Moq >= 4.20.72",
       "coverlet.collector >= 6.0.2",
       "xunit >= 2.9.2",
@@ -1676,11 +1675,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Application\\MinhasFinancas.Application.csproj": {
-              "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Application\\MinhasFinancas.Application.csproj"
-            },
-            "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Domain\\MinhasFinancas.Domain.csproj": {
-              "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Teste_tecnico\\ExameDesenvolvedorDeTestes\\api\\MinhasFinancas.Domain\\MinhasFinancas.Domain.csproj"
+            "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Application\\MinhasFinancas.Application.csproj": {
+              "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Application\\MinhasFinancas.Application.csproj"
             }
           }
         }

@@ -1,0 +1,10 @@
+C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\MinhasFinancas.Domain\bin\Debug\net9.0\MinhasFinancas.Domain.deps.json
+C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\MinhasFinancas.Domain\bin\Debug\net9.0\MinhasFinancas.Domain.dll
+C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\MinhasFinancas.Domain\bin\Debug\net9.0\MinhasFinancas.Domain.pdb
+C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\MinhasFinancas.Domain\obj\Debug\net9.0\MinhasFinancas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\MinhasFinancas.Domain\obj\Debug\net9.0\MinhasFinancas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\MinhasFinancas.Domain\obj\Debug\net9.0\MinhasFinancas.Domain.sourcelink.json
+C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\MinhasFinancas.Domain\obj\Debug\net9.0\MinhasFinancas.Domain.dll
+C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\MinhasFinancas.Domain\obj\Debug\net9.0\refint\MinhasFinancas.Domain.dll
+C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\MinhasFinancas.Domain\obj\Debug\net9.0\MinhasFinancas.Domain.pdb
+C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\MinhasFinancas.Domain\obj\Debug\net9.0\ref\MinhasFinancas.Domain.dll

@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Teste_tecnico\ExameDesenvolvedorDeTestes\api\MinhasFinancas.Application\MinhasFinancas.Application.csproj" />
+    <ProjectReference Include="MinhasFinancas.Application\MinhasFinancas.Application.csproj" />
   </ItemGroup>
 
   <ItemGroup>
