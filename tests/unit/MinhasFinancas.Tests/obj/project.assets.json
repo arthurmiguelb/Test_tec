@@ -1075,9 +1075,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Tests.csproj",
-      "projectName": "MinhasFinancas.Tests",
-      "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Application.Tests.csproj",
+      "projectName": "MinhasFinancas.Application.Tests",
+      "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Application.Tests.csproj",
       "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\obj\\",
       "projectStyle": "PackageReference",

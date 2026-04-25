@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "COcWvBKUlMc=",
+  "dgSpecHash": "CGc3nYRLzqs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Tests.csproj",
+  "projectFilePath": "C:\\Users\\arthu\\OneDrive\\Documents\\Evidence\\tests\\unit\\MinhasFinancas.Tests\\MinhasFinancas.Application.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arthu\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\arthu\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",

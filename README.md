@@ -229,11 +229,11 @@ Testam a lógica de negócio de forma isolada, sem banco de dados e sem chamadas
 
 ```bash
 cd tests/unit/MinhasFinancas.Tests
-dotnet test .\MinhasFinancas.Tests.csproj
+dotnet test MinhasFinancas.Tests.csproj
 ```
 ```bash
 cd tests/unit/MinhasFinancas.Tests
-dotnet test .\MinhasFinacas.Application.Tests.csproj
+dotnet test MinhasFinancas.Application.Tests.csproj
 ```
 
 **Com output detalhado:**
