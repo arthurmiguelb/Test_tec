@@ -108,9 +108,25 @@ dotnet run --urls http://localhost:5000
 
 Consulte o README do repositório principal para instruções de como subir a aplicação.
 
+### Passo 2 — Configurar o caminho da API nos projetos C#
+
+Os projetos de testes unitários e de integração referenciam o código-fonte da aplicação principal. Antes de rodar os testes C#, você precisa informar o caminho da pasta raiz da API no arquivo `.csproj` correspondente.
+
+Abra os arquivos abaixo e substitua o valor de `API_PATH` pelo caminho absoluto da pasta do projeto principal na sua máquina:
+
+**`tests/integration/MinhasFinancas.IntegrationTests/MinhasFinancas.IntegrationTests.csproj`**
+**`tests/unit/MinhasFinancas.Tests/MinhasFinancas.Tests.csproj`**
+**`tests/unit/MinhasFinancas.Tests/MinhasFinancas.Application.Tests.csproj`**
+
+```xml
+<ApiPath>C:\caminho\para\o\projeto-principal\src</ApiPath>
+```
+
+> ⚠️ O caminho deve apontar para a pasta que contém o diretório `MinhasFinancas.Application`.
+
 ---
 
-### Passo 2 — Clonar este repositório
+### Passo 3 — Clonar este repositório
 
 ```bash
 git clone <url-deste-repositorio>
@@ -119,7 +135,7 @@ cd EVIDENCE
 
 ---
 
-### Passo 3 — Instalar dependências do Cypress
+### Passo 4 — Instalar dependências do Cypress
 
 ```bash
 cd tests/Automation
@@ -176,6 +192,7 @@ npx cypress run --spec "cypress/integration/**/*.cy.js"
 
 ### 3. Testes de Integração — C# / xUnit
 
+
 Testam as regras de negócio fazendo requisições HTTP reais para a API em `http://localhost:5000`. **A aplicação principal precisa estar rodando antes de executar estes testes.**
 
 **Rodar todos os testes de integração:**
@@ -212,7 +229,11 @@ Testam a lógica de negócio de forma isolada, sem banco de dados e sem chamadas
 
 ```bash
 cd tests/unit/MinhasFinancas.Tests
-dotnet test
+dotnet test .\MinhasFinancas.Tests.csproj
+```
+```bash
+cd tests/unit/MinhasFinancas.Tests
+dotnet test .\MinhasFinacas.Application.Tests.csproj
 ```
 
 **Com output detalhado:**

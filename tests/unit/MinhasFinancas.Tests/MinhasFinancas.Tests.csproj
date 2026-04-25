@@ -5,6 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <IsPackable>false</IsPackable>
+    <ApiPath>$(API_PATH)</ApiPath>
   </PropertyGroup>
 
   <ItemGroup>
@@ -16,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="MinhasFinancas.Application\MinhasFinancas.Application.csproj" />
+    <ProjectReference Include="$(ApiPath)\api\MinhasFinancas.Application\MinhasFinancas.Application.csproj" />
   </ItemGroup>
 
   <ItemGroup>

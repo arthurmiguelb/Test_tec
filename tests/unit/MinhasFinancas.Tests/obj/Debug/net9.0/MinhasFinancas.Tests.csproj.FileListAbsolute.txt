@@ -118,3 +118,5 @@ C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\obj\D
 C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\obj\Debug\net9.0\MinhasFinancas.Tests.pdb
 C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\obj\Debug\net9.0\MinhasFinancas.Tests.genruntimeconfig.cache
 C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\obj\Debug\net9.0\ref\MinhasFinancas.Tests.dll
+C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\bin\Debug\net9.0\MinhasFinancas.Application.xml
+C:\Users\arthu\OneDrive\Documents\Evidence\tests\unit\MinhasFinancas.Tests\bin\Debug\net9.0\MinhasFinancas.Domain.xml

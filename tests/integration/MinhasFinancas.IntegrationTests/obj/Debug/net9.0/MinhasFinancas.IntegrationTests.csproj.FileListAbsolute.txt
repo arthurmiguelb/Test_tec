@@ -553,3 +553,4 @@ C:\Users\arthu\OneDrive\Documents\Evidence\tests\integration\MinhasFinancas.Inte
 C:\Users\arthu\OneDrive\Documents\Evidence\tests\integration\MinhasFinancas.IntegrationTests\obj\Debug\net9.0\MinhasFinancas.IntegrationTests.pdb
 C:\Users\arthu\OneDrive\Documents\Evidence\tests\integration\MinhasFinancas.IntegrationTests\obj\Debug\net9.0\MinhasFinancas.IntegrationTests.genruntimeconfig.cache
 C:\Users\arthu\OneDrive\Documents\Evidence\tests\integration\MinhasFinancas.IntegrationTests\obj\Debug\net9.0\ref\MinhasFinancas.IntegrationTests.dll
+C:\Users\arthu\OneDrive\Documents\Evidence\tests\integration\MinhasFinancas.IntegrationTests\obj\Debug\net9.0\MinhasFinancas.IntegrationTests.sourcelink.json

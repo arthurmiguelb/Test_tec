@@ -5,6 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <IsPackable>false</IsPackable>
+    <ApiPath>$(API_PATH)</ApiPath>
   </PropertyGroup>
 
   <ItemGroup>
@@ -18,10 +19,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Teste_tecnico\ExameDesenvolvedorDeTestes\api\MinhasFinancas.API\MinhasFinancas.API.csproj" />
-    <ProjectReference Include="..\..\..\..\Teste_tecnico\ExameDesenvolvedorDeTestes\api\MinhasFinancas.Application\MinhasFinancas.Application.csproj" />
-    <ProjectReference Include="..\..\..\..\Teste_tecnico\ExameDesenvolvedorDeTestes\api\MinhasFinancas.Domain\MinhasFinancas.Domain.csproj" />
-    <ProjectReference Include="..\..\..\..\Teste_tecnico\ExameDesenvolvedorDeTestes\api\MinhasFinancas.Infrastructure\MinhasFinancas.Infrastructure.csproj" />
+    <ProjectReference Include="$(ApiPath)\api\MinhasFinancas.API\\MinhasFinancas.API.csproj" />
+    <ProjectReference Include="$(ApiPath)\api\MinhasFinancas.Application\MinhasFinancas.Application.csproj" />
+    <ProjectReference Include="$(ApiPath)\api\MinhasFinancas.Domain\MinhasFinancas.Domain.csproj" />
+    <ProjectReference Include="$(ApiPath)\api\MinhasFinancas.Infrastructure\MinhasFinancas.Infrastructure.csproj" />
   </ItemGroup>
 
   <ItemGroup>
